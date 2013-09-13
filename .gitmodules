@@ -1,0 +1,6 @@
+[submodule "dockerfiles-postgresql-9.3"]
+	path = dockerfiles-postgresql-9.3
+	url = git@github.com:vvlad/dockerfiles-postgresql-9.3.git
+[submodule "dockerfiles-graphite"]
+	path = dockerfiles-graphite
+	url = git@github.com:vvlad/dockerfiles-graphite.git
